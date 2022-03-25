@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hi it's Xyrah Len Kay L. Torculas!
 Use the left arrow to go back!
